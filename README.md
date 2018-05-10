@@ -1,10 +1,10 @@
 PerfDriver Standard
 ===================
 
-[PerfDriver] is a remote control interface that enables introspection
-and control of load agents.  It provides a platform- and language-neutral
-wire protocol as a way for out-of-process programs to remotely
-instruct the behavior of request / response pairs (JSON).
+[PerfDriver] is a remote control interface that enables control of load agents.  
+It provides a platform- and language-neutral JSON based
+ protocol as a way for out-of-process programs to remotely
+instruct the behavior of request / response pairs.
 
 The standard is aimed at becoming W3C [Browser Testing- and Tools
 Working Group], and has produced the following Performance Engineering capabilities:
@@ -19,6 +19,6 @@ Contribute
 You may add your name to the [Acknowledgements] section in your
 first PR, even for trivial fixes.  The names are sorted lexicographically.
 
-See <CONTRIBUTING.md> for more guidelines.
+See <CONTRIBUTING.md>Â for more guidelines.
 
 [good commit message]: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
