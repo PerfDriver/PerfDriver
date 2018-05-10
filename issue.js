@@ -11,7 +11,7 @@
 // fields in the new issue form you want populated:
 //
 // 	<html
-// 	 data-issue-url="https://github.com/TaaaS/Perfdriver"
+// 	 data-issue-url="https://github.com/PerfDriver/Perfdriver.io"
 // 	 data-issue-param-milestone="Level 1">
 //
 // Inspired by the “Simple Bug File Assistant” for the W3C Bugzilla
